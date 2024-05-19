@@ -1,8 +1,8 @@
 {
-  "name": "table-generator",
+  "name": "mhb-table-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "bin": "main.js",
   "scripts": {
