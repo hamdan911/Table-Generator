@@ -56,7 +56,5 @@ while (table) {
             0,
          )(`\n\tThank for using the table generator!\n`),
       );
-      console.log(chalk.rgb(191, 255, 0)(`\tHave a nice day!\n`));
-      
    }
 }
